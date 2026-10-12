@@ -44,8 +44,8 @@
 
 - **Fanpage chính thức**: [Trạm Game Quanta](https://www.facebook.com/tgame.cutscene/)
 - **Website**: https://quantatools.io.vn/dubb
-- **Báo lỗi & Đóng góp ý kiến**: Nhắn tin trực tiếp qua Fanpage để được hỗ trợ kỹ thuật và nhận các bản cập nhật mới nhất.
-- **Ủng hộ dự án (Donate)**: Mở mục **Cập Nhật & Ủng Hộ** (icon trái tim trên thanh tiêu đề) để quét mã QR ủng hộ đội ngũ phát triển.
+- **Báo lỗi & Đóng góp ý kiến**: Nhắn tin trực tiếp qua Fanpage để được hỗ trợ kỹ thuật.
+- **Ủng hộ dự án (Donate)**: Mở mục **Cập Nhật & Ủng Hộ** (icon trái tim trên thanh tiêu đề) để quét mã QR ủng hộ.
 
 ---
 
