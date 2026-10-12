@@ -15,8 +15,8 @@
 
 ### 4. 🎮 Giao Diện Đơn Giản & Chế Độ Bong Bóng Nổi (Floating Bubble Mode)
 - **Giao diện Glassmorphism**: Thiết kế tối giản, trực quan, tông màu tối sang trọng.
-- **Kéo Chọn Vùng Nhận Diện Trực Quan (ROI Picker)**: Kéo chọn bất kỳ vị trí phụ đề nào trên màn hình, hỗ trợ hiển thị khung viền kiểm tra (ROI Overlay).
-- **Floating Bubble Mode**: Khi bấm nút thu nhỏ (`–`), ứng dụng biến thành một bong bóng nổi trong suốt ghim gọn ở góc màn hình, hoàn toàn không che khuất tầm nhìn khi chơi game. Nhấp vào bong bóng để phóng to lại tức thì.
+- **Kéo Chọn Vùng Nhận Diện Trực Quan (ROI Picker)**: Kéo chọn bất kỳ vị trí phụ đề nào trên màn hình.
+- **Floating Bubble Mode**: Khi bấm nút thu nhỏ (`–`), ứng dụng biến thành một bong bóng nổi trong suốt ghim gọn ở góc màn hình.
 
 ---
 
