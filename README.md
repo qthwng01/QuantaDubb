@@ -2,7 +2,7 @@
 
 > **Quanta Dubb** là công cụ phần mềm thuyết minh game PC, tự động nhận diện phụ đề trên màn hình game và thuyết minh tiếng Việt **ngay lập tức trong thời gian thực** với độ trễ siêu thấp và giọng đọc sống động.
 
-![Giao diện Quanta Dubb](https://ik.imagekit.io/ksxrcndw0/Screenshot%202026-10-13%20215408.png)
+![Giao diện Quanta Dubb](https://ik.imagekit.io/ksxrcndw0/Gemini_Generated_Image_6n8chv6n8chv6n8c.png)
 
 ---
 
